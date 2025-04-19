@@ -1,1 +1,2 @@
-
+picoctf: SerdalyMen
+tryhackme: serdalymuhammed
